@@ -1,0 +1,1 @@
+Analyzed survival rates following a ship capsizing incident, utilizing Python for data pre-processing, ETL, and analysis. Leveraged Tableau to create visualizations that effectively communicated key insights and observations. Concluded with actionable recommendations aimed at driving value creation for the ship organization.
